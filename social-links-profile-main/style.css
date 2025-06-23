@@ -34,6 +34,9 @@ button {
     height: 2.5vw;
     color: hsl(0, 0%, 100%);
 }
+p {
+    font-size: .9vw;
+}
 button:hover {
     cursor: pointer;
     background-color: hsl(75, 94%, 57%);
